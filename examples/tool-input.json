@@ -1,0 +1,25 @@
+{
+  "criteria": [
+    "说明范围",
+    "记录事实"
+  ],
+  "attempts": [
+    {
+      "id": "a",
+      "assisted": true,
+      "new_conditions": false,
+      "met": [
+        "说明范围"
+      ]
+    },
+    {
+      "id": "b",
+      "assisted": false,
+      "new_conditions": true,
+      "met": [
+        "说明范围",
+        "记录事实"
+      ]
+    }
+  ]
+}
